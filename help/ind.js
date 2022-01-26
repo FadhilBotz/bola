@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot Beta :*
+*📚 List-Menu Dillbotz Beta :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -232,7 +232,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 088708231116 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
